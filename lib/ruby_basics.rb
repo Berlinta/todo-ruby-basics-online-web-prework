@@ -31,6 +31,5 @@ end
 
 def pizza_party(pizza_party = cheese)
   return "pepperoni"
-  pizza_party(cheese)
-
+  
 end
