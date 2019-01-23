@@ -10,7 +10,7 @@ end
 
 def argue
   def argue(phrase)
-    
+    "#{phrase}"
   
 end
 
