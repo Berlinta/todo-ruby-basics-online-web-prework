@@ -33,4 +33,4 @@ def pizza_party(pizza_party = cheese)
   return "pepperoni"
   
 end
-pizza_party(cheese)
+p
