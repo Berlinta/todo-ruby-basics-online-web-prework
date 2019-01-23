@@ -14,6 +14,7 @@ def argue(phrase)
 end
 
 def greeting(name)
+  puts "Hi there, #{name}"
   
 
 end
