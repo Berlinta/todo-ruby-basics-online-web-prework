@@ -9,7 +9,8 @@ def assign_variable(value)
 end
 
 def argue
-  "#{argue}"
+  #{argue}
+  
 end
 
 def greeting
