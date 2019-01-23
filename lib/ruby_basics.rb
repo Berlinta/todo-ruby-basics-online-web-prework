@@ -8,8 +8,7 @@ def assign_variable(value)
   
 end
 
-def argue
-  def argue(phrase)
+def argue(phrase)
     "#{phrase}"
   
 end
