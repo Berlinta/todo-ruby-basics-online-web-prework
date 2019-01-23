@@ -29,7 +29,7 @@ def last_evaluated_value
 
 end
 
-def pizza_party(pizza_party = cheese)
+def pizza_party(topping = cheese)
   return "pepperoni"
   
 end
